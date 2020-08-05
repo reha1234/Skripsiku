@@ -1,0 +1,7 @@
+Ide :
+- Membuat platform untuk melihat pengelolaan,perubahan,sorting,playlist,genre dari video
+- Membuat platform untuk melihat pengelolaan,perubahan,sorting,type dari data
+- Membuat platform untuk melihat pengelolaan,perubahan,sorting,type,size,catagory dari document
+- Membuat platform untuk melihat pengelolaan,perubahan,sorting,type,kualitas,size,genre dari music
+- Membuat platform untuk forum diskusi
+- Membuat IOT
